@@ -2,7 +2,7 @@
 The <span style="background-color: #00ffff75; display: inline-block; padding: 0 8px; font-weight: bold;">Exercise</span> and <span style="background-color: #ffff0070; display: inline-block; padding: 0 8px; font-weight: bold;">Lab</span> columns indicate what you are expected to work on each day. 
 
 <TimePlan
-	:startDate='new Date(2022, 9, 24)'
+	:startDate='new Date(2023, 9, 23)'
 	:columns='[
 		{key: "t", name: "Lecture", color: "#ffa5009c"},
 		{key: "e", name: "Exercise", color: "#00ffff75"},

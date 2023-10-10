@@ -1,6 +1,6 @@
 export default {
 	name: "Client-Server Communication 2022",
-	showLink: true,
+	showLink: false,
 	pages: [
 		"index.html",
 		"course-syllabus",

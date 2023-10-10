@@ -1,5 +1,5 @@
 export default {
-	name: "Introduction to Script Programming 2022",
+	name: "Introduction to Script Programming 2023",
 	showLink: true,
 	pages: [
 		"index.html",

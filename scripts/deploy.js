@@ -15,7 +15,7 @@ const commands = [
 	'git commit -m "New deploy."',
 	
 	// Push it.
-	'git push -f https://github.com/PeppeL-G/course-material.git master:gh-pages',
+	'git push -f https://github.com/pr-ju/course-material.git master:gh-pages',
 	
 ]
 

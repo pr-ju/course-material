@@ -1,6 +1,6 @@
 export default {
 	name: "Git",
-	showLink: true,
+	showLink: false,
 	pages: [
 		"index.html",
 	],

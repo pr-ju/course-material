@@ -1,6 +1,6 @@
 export default {
 	name: "Web Development Fundamentals 2022",
-	showLink: true,
+	showLink: false,
 	pages: [
 		"index.html",
 		"course-syllabus",

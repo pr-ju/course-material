@@ -1,6 +1,6 @@
 export default {
 	name: "Android Development 2023",
-	showLink: true,
+	showLink: false,
 	pages: [
 		"index.html",
 		"course-syllabus",
