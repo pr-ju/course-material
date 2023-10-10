@@ -6,20 +6,20 @@
   "type": "module",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src --debug",
+    "build": "NODE_OPTIONS=--max-old-space-size=8192 vuepress build src --debug",
     "deploy": "node scripts/deploy.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PeppeL-G/course-material.git"
+    "url": "git+https://github.com/pr-ju/course-material.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PeppeL-G/course-material/issues"
+    "url": "https://github.com/pr-ju/course-material/issues"
   },
-  "homepage": "https://github.com/PeppeL-G/course-material#readme",
+  "homepage": "https://github.com/pr-ju/course-material#readme",
   "dependencies": {
     "@vuepress/plugin-container": "2.0.0-beta.62",
     "@vuepress/plugin-register-components": "2.0.0-beta.62",

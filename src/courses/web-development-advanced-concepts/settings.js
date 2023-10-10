@@ -3,14 +3,14 @@ export default {
 	showLink: false,
 	pages: [
 		"index.html",
-		"course-syllabus",
-		"study-guide",
-		"lectures",
-		"tutorials",
-		"laboratory-work",
-		"project-work",
-		"project-grading-guidelines",
-		"written-examination",
-		"time-plan"
+	// 	"course-syllabus",
+	// 	"study-guide",
+	// 	"lectures",
+	// 	"tutorials",
+	// 	"laboratory-work",
+	// 	"project-work",
+	// 	"project-grading-guidelines",
+	// 	// "written-examination",
+	// 	"time-plan"
 	],
 }

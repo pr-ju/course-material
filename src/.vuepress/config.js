@@ -59,7 +59,7 @@ export default defineUserConfig({
 	host: false,
 	theme: defaultTheme({
 		docsDir: "src",
-		docsRepo: "https://github.com/PeppeL-G/course-material",
+		docsRepo: "https://github.com/pr-ju/course-material",
 		docsBranch: "master",
 		editLink: true,
 		editLinkText: 'Improve this page!',
@@ -72,7 +72,7 @@ export default defineUserConfig({
 			children: await getNavItems(),
 		}, {
 			text: "Get Help",
-			link: "https://github.com/PeppeL-G/course-material/issues"
+			link: "https://github.com/pr-ju/course-material/issues"
 		}],
 		contributors: false,
 		sidebarDepth: 2,
