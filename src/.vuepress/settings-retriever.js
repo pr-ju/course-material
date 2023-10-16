@@ -9,6 +9,13 @@ export async function getAllCourseSettings(){
 	const courseFolderNames = fs.readdirSync(
 		pathToCourseFolders
 	)
+
+	const dsStoreIndex = courseFolderNames.indexOf('.DS_Store')
+	if (dsStoreIndex != -1){
+		courseFolderNames.splice(dsStoreIndex,1)
+	}
+
+	console.log(courseFolderNames)
 	
 	const courseSettings = await Promise.all(courseFolderNames.map(async courseFolderName => {
 		

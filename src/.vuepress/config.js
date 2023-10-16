@@ -10,6 +10,8 @@ import { containerPlugin } from '@vuepress/plugin-container'
 async function getNavItems(){
 	
 	const courseSettings = await getAllCourseSettings()
+
+	console.log(courseSettings)
 	
 	courseSettings.sort((a, b) => a.name - b.name)
 	
