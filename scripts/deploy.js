@@ -3,7 +3,7 @@ import child_process from 'node:child_process'
 const commands = [
 	
 	// Install all dependencies.
-	'npm install',
+	//'npm install',
 	
 	// Build it.
 	'npm run build',
