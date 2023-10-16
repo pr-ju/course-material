@@ -38,7 +38,7 @@ This course is primarily given for two programs, and they have different codes f
 At the moment, the only difference between these two are some of the problems that should be solved in the laboratory work. Those problems have been pointed out in the laboratory work instructions.
 
 ## Information to old students
-If you're an old student that took this course a previous year but still have some examination tests left to pass you take those tests as they are described this year. The old old Canvas Room won't be used any more, so join this year's Canvas Room, so we can keep track of your progress in the course this year there. If you aren't registered for the course this year, ask the course manager to invite you to the Canvas Room by sending him an email message based on the template in <FigureNumber /> below with the topic `Invitation to Canvas Room` to `peter.larsson-green@ju.se`.
+If you're an old student that took this course a previous year but still have some examination tests left to pass you take those tests as they are described this year. The old old Canvas Room won't be used any more, so join this year's Canvas Room, so we can keep track of your progress in the course this year there. If you aren't registered for the course this year, ask the course manager to invite you to the Canvas Room by sending him an email message based on the template in <FigureNumber /> below with the topic `Invitation to Canvas Room`.
 
 <Figure caption="Template for email message to be invited to a Canvas Room. Replace XXX with your own value, and only keep the course you want to be invited to.">
 

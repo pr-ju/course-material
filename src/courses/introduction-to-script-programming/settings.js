@@ -3,13 +3,13 @@ export default {
 	showLink: true,
 	pages: [
 		"index.html",
-		"course-syllabus",
 		"study-guide",
+		"time-plan",
 		"lectures",
 		"exercises",
-		"repetition-exercises",
+		//"repetition-exercises",
 		"laboratory-work",
 		"written-examination",
-		"time-plan",
+		"course-syllabus",
 	],
 }

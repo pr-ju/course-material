@@ -3,8 +3,8 @@
     course-name="Introduction to Script Programming"
     ladok-code="TSPG17 | TSTG17"
     credits="7.5"
-    course-coordinator="Peter Larsson-Green"
-    examiner="Peter Larsson-Green"
+    course-coordinator="Patrick Riehmann, Björn Praestegaard Larsen"
+    examiner="Patrick Riehmann, Björn Praestegaard Larsen"
     canvasCourseId="6982"
 />
 
@@ -18,8 +18,8 @@ Unfortunately, computers do not operate/think the same way as we humans do, so p
 ### Pre-requisites
 This course does not have any special pre-requisites other than basic math and English.
 
-## Teachers
-### Peter Larsson-Green
+<!--## Teachers
+ ### Peter Larsson-Green
 <Teacher
     name="Peter Larsson-Green"
     photo="peter-larsson-green.jpeg"
@@ -47,7 +47,7 @@ This course does not have any special pre-requisites other than basic math and E
     photo="kyrollos-ceriacous.jpeg"
     :roles='["Lab assistant"]'
     description="Third year student at the Software Engineering and Mobile Platforms Program studying his bachelor degree."
-/>
+/> -->
 
 ## Intended Learning Outcomes
 The intended learning outcomes of the course are found in [the course syllabus](course-syllabus/) in force. Below is a table showing how the examination tests cover the intended learning outcomes and which teaching activity helping you learn which intended learning outcome. 

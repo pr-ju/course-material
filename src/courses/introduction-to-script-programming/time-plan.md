@@ -6,9 +6,9 @@ The <span style="background-color: #00ffff75; display: inline-block; padding: 0 
 	:columns='[
 		{key: "t", name: "Lecture", color: "#ffa5009c"},
 		{key: "e", name: "Exercise", color: "#00ffff75"},
-		{key: "l", name: "Lab", color: "#ffff0070"},
+		{key: "l", name: "Due lab work", color: "#ffff0070"},
 		{key: "g", name: "Lab session", color: "#80008082"},
-		{key: "i", name: "Important", color: "#ff000094"},
+		// {key: "i", name: "Important", color: "#ff000094"},
 	]'
 	:rows='[
 		// 1
@@ -71,7 +71,7 @@ The <span style="background-color: #00ffff75; display: inline-block; padding: 0 
 		{},
 		{},
 		{},
-		{i: "Written Exam"},
+		{t: "Written Exam"},
 		{},
 		{},
 		{},

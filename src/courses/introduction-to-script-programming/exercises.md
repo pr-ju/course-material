@@ -59,7 +59,7 @@ To run the Python program, you just need to type `python` in a shell/terminal/co
 
 </Figure>
 
-Just running the `python` command will start Python's read-eval-print-loop, where you can enter Python code and have it executed when you press the enter key, but the `python` command can also be used to execute Python code written in a file. How to do that is not explained here, but in the lecture [Python Introduction](../../lectures/python-introduction/).
+Just running the `python` command will start Python's read-eval-print-loop, where you can enter Python code and have it executed when you press the enter key, but the `python` command can also be used to execute Python code written in a file. How to do that is not explained here, but in the video lecture [Python Introduction](../../lectures/python-introduction/).
 
 You do not need to do anything more than this to start writing and running Python code, so it is quite easy to get started. But back to that IDE we mentioned earlier.
 
@@ -113,7 +113,7 @@ The first time Visual Studio Code encounters a Python file, it will suggest you 
 That's it! Now you can write your Python code in files using Visual Studio Code and then click on the ▶ button to run it.
 
 ## Exercise 0: Input & output
-Before you start working on these exercises, you are recommended to watch the following recorded lectures:
+Before you start working on these exercises, you are recommended to watch the following recorded video lectures:
 
 * [Introduction to Computers and Programming](../../lectures/introduction-to-computers-and-programming/)
 * [Using Shells](../../lectures/using-shells/)
@@ -413,7 +413,7 @@ print("The length of the event is: "+str(length_hour)+":"+str(length_minute)+":"
 
 
 ## Exercise 1: Loops
-Before you start working on these exercises, you are recommended to watch the following recorded lectures:
+Before you start working on these exercises, you are recommended to watch the following recorded video lectures:
 
 * [Python Basics - Part 2](../../lectures/python-basics-part-2/)
 
@@ -725,7 +725,7 @@ print("The sum of the integers between "+str(first_term)+" and "+str(last_term)+
 </SampleAnswer>
 
 ## Exercise 2: Functions
-Before you start working on these exercises, you are recommended to watch the following recorded lectures:
+Before you start working on these exercises, you are recommended to watch the following recorded video lectures:
 
 * [Python Modules](../../lectures/python-modules/)
 * [Python Functions](../../lectures/python-functions/)
@@ -1024,7 +1024,7 @@ print(total_sum)
 
 
 ## Exercise 3: Conditions
-Before you start working on these exercises, you are recommended to watch the following recorded lectures:
+Before you start working on these exercises, you are recommended to watch the following recorded video lectures:
 
 * [Python Conditions](../../lectures/python-conditions/)
 * [Python Loops](../../lectures/python-loops/)
@@ -1357,7 +1357,7 @@ def greatest(numbers):
 
 
 ## Exercise 4: Lists & Dicts
-Before you start working on these exercises, you are recommended to watch the following recorded lectures:
+Before you start working on these exercises, you are recommended to watch the following recorded video lectures:
 
 * [Python Strings](../../lectures/python-strings/)
 * [Python Lists](../../lectures/python-lists/)
@@ -1689,7 +1689,7 @@ while entered_operation != "quit":
 </SampleAnswer>
 
 ## Exercise 5: Files
-Before you start working on these exercises, you are recommended to watch the following recorded lectures:
+Before you start working on these exercises, you are recommended to watch the following recorded video lectures:
 
 * [Python Modelling](../../lectures/python-modelling/)
 * [Python Data Storage](../../lectures/python-data-storage/)
@@ -1949,7 +1949,7 @@ while operation != "quit":
 
 
 ## Exercise 6: Object-oriented Programming
-Before you start working on these exercises, you are recommended to watch the following recorded lectures:
+Before you start working on these exercises, you are recommended to watch the following recorded video lectures:
 
 * [Python Abstraction](../../lectures/python-abstraction/)
 * [Python Object-Oriented Programming](../../lectures/python-object-oriented-programming/)

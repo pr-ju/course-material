@@ -1,7 +1,7 @@
 <template>
 	<div>
 		
-		<p>This study guide contains information about the implementation of the course. If you ever have any question about something in the course, look for the answer in this study guide or one of the other pages it refers to. If you can't find the answer to your question, email the course coordinator.</p>
+		<p>This study guide contains information about the implementation of the course. If you ever have any question about something in the course, look for the answer in this study guide or one of the other pages it refers to. </p>
 		
 		<dl class="study-guide-information">
 			
