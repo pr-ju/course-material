@@ -5,7 +5,7 @@
     credits="7.5"
     course-coordinator="Patrick Riehmann, Björn Praestegaard Larsen"
     examiner="Patrick Riehmann, Björn Praestegaard Larsen"
-    canvasCourseId="6982"
+    canvasCourseId="10269"
 />
 
 ## Introduction

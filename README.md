@@ -9,4 +9,4 @@ This is a project for a Single-Page Application implemented in [VuePress](https:
 
 # Deploy
 To upload the changes to GitHub Pages, run the npm script called `deploy`:
-1. `npn run deploy` 
+1. `npm run deploy` 
