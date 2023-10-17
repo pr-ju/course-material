@@ -6,7 +6,7 @@ const commands = [
 	//'npm install',
 	
 	// Build it.
-	'npm run build',
+	//'npm run build',
 	
 	// Commit it.
 	'cd src/.vuepress/dist',
