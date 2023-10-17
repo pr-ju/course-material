@@ -7,7 +7,7 @@ exercise4ShowAfter: 2022-11-21T11:45
 exercise5ShowAfter: 2022-11-28T11:45
 exercise6ShowAfter: 2022-12-05T11:45
 ---
-# Exercises
+# Self Study Exercises
 On this page you find information about the exercises in the course.
 
 ## Introduction
