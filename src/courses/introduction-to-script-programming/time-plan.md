@@ -5,14 +5,15 @@ The  <span style="background-color: #00ffff75; display: inline-block; padding: 0
 	:startDate='new Date(2023, 9, 23)'
 	:columns='[
 		{key: "t", name: "Lecture", color: "#ffa5009c"},
+		//{key: "v", name: "Videos", color: "#00a4ff9c"},
 		{key: "e", name: "Exercises", color: "#00ffff75"},
 		{key: "l", name: "Due lab work", color: "#ffff0070"},
 		{key: "g", name: "Lab session", color: "#80008082"},
-		// {key: "i", name: "Important", color: "#ff000094"},
+		// {key: "i", name: "Important", color: "#ff000094"},#00a4ff9c
 	]'
 	:rows='[
 		// 1
-		{t:"First Lecture" , e: "Exercise 0"}, // M
+		{t:"Kickoff" , e: "Exercise 0"}, // M
 		{e: "Exercise 0", g: "Group 3"},       // Tu
 		{e: "Exercise 1", g: "Group 1, 2, 4"},       // W
 		{e: "Exercise 1"},
@@ -28,41 +29,41 @@ The  <span style="background-color: #00ffff75; display: inline-block; padding: 0
 		{},
 		{},
 		// 3
-		{l: "Lab 1"}, // M
-		{l: "Lab 1", g: "Group 1, 2, 3, 4"}, //Tu
-		{l: "Lab 1"}, //W
+		{l: "Lab 2"}, // M
+		{l: "Lab 2", g: "Group 1, 2, 3, 4"}, //Tu
+		{l: "Lab 2"}, //W
 		{e: "Exercise 2", t: "Q&A" },
 		{e: "Exercise 2"},
 		{},
 		{},
 		// 4
-		{l: "Lab 1"}, // M
-		{l: "Lab 1", g: "Group 1, 2, 3"}, //Tu
-		{l: "Lab 1"}, //W
+		{l: "Lab 3"}, // M
+		{l: "Lab 3", g: "Group 1, 2, 3"}, //Tu
+		{l: "Lab 3"}, //W
 		{e: "Exercise 2", g: "Group 4", t: "Q&A" },
 		{e: "Exercise 2"},
 		{},
 		{},
 		// 5
-		{l: "Lab 1"}, // M
-		{l: "Lab 1", g: "Group 1, 2, 3, 4"}, //Tu
-		{l: "Lab 1"}, //W
+		{l: "Lab 4"}, // M
+		{l: "Lab 4", g: "Group 1, 2, 3, 4"}, //Tu
+		{l: "Lab 4"}, //W
 		{e: "Exercise 2", t: "Q&A" },
 		{e: "Exercise 2"},
 		{},
 		{},
 		// 6
-		{l: "Lab 1", g: "Group 4"}, // M
-		{l: "Lab 1", g: "Group 1, 2, 3"}, //Tu
-		{l: "Lab 1"}, //W
+		{l: "Lab 5", g: "Group 4"}, // M
+		{l: "Lab 5", g: "Group 1, 2, 3"}, //Tu
+		{l: "Lab 5"}, //W
 		{e: "Exercise 2", t: "Q&A" },
 		{e: "Exercise 2"},
 		{},
 		{},
 		// 7
-		{l: "Lab 1"}, // M
-		{l: "Lab 1", g: "Group 1, 2, 3, 4"}, //Tu
-		{l: "Lab 1"}, //W
+		{l: "Lab 6"}, // M
+		{l: "Lab 6", g: "Group 1, 2, 3, 4"}, //Tu
+		{l: "Lab 6"}, //W
 		{e: "Exercise 2", t: "Q&A" },
 		{e: "Exercise 2"},
 		{},

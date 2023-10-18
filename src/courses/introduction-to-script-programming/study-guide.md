@@ -8,13 +8,6 @@
     canvasCourseId="10269"
 />
 
-## Introduction
-In your daily work it is not uncommon that you find yourself carrying out the same task over and over again. After all, you have been employed for the specific skills you possess, and your employer wants you to make use of them. But in the long run, repeatedly doing the same thing over and over again can be quite boring, causing you to lose concentration and start making mistakes, which in turn makes you unproductive and lowers the quality of your work.
-
-A computer is an excellent tool to save you from this. Once programmed, it will not only carry out the tasks for you, but it will do so without complaining, much faster than you can, and with the confidence that the task has been carried out correctly, since computers do not make mistakes.
-
-Unfortunately, computers do not operate/think the same way as we humans do, so programming them can be quite tricky. In this course, you will get familiar with how computers work and how to program them using a programming language called *Python*. We will start with the very basics, and at the end of the course, you will be able to program computers on your own.
-
 ### Pre-requisites
 This course does not have any special pre-requisites other than basic math and English.
 
@@ -57,62 +50,62 @@ Display knowledge of how a programming language interacts with the operating sys
 -Laboratory work
 -Written examination
 +Recorded lectures
-+Tutorials
++Self study exercises
 +Lab sessions
 ---
 Display knowledge about integrated development environments and their usage area
 -Laboratory work
 +Recorded lectures
-+Tutorials
++Self study exercises
 +Lab sessions
 ---
 Display knowledge of common terms and concepts in script programming
 -Laboratory work
 -Written examination
 +Recorded lectures
-+Tutorials
++Self study exercises
 +Lab sessions
 ---
 Display knowledge of common terms and concepts used in object-oriented programming
 -Laboratory work
 -Written examination
 +Recorded lectures
-+Tutorials
++Self study exercises
 +Lab sessions
 ---
 Demonstrate the ability to use common data types and controls structures in a high-level programming language
 -Laboratory work
 -Written examination
 +Recorded lectures
-+Tutorials
++Self study exercises
 +Lab sessions
 ---
 Demonstrate the ability to create interactive console programs in a high-level programming language
 -Laboratory work
 -Written examination
 +Recorded lectures
-+Tutorials
++Self study exercises
 +Lab sessions
 ---
 Demonstrate the ability to develop and implement simple programs and algorithms in a high-level programming language
 -Laboratory work
 -Written examination
 +Recorded lectures
-+Tutorials
++Self study exercises
 +Lab sessions
 ---
 Demonstrate the ability to use object-oriented programming in a high-level programming language
 -Laboratory work
 -Written examination
 +Recorded lectures
-+Tutorials
++Self study exercises
 +Lab sessions
 ---
 Demonstrate the ability to use script programming to create, read and modify files of different types in a high-level programming language
 -Laboratory work
 -Written examination
 +Recorded lectures
-+Tutorials
++Self study exercises
 +Lab sessions
 "/>
 
@@ -122,16 +115,16 @@ Here are short introduction to the learning activities offered in the course.
 ### Recorded Lectures
 In the beginning of each week you will be encouraged to view some recorded lectures. These will be quite theoretical and will teach you new things you can use when programming.
 
-### Tutorials
-Each week you will also be encouraged to complete some optional exercises. This is for you to practice on using the theory you learned in the recorded lectures. In the beginning of each week there will be a tutorial where the teacher will show you and discuss sample answers to the exercises from the previous week.
+### Q&A
+Each week you will also be encouraged to complete some optional exercises. This is for you to practice on using the theory you learned in the recorded lectures. In the beginning of each week there will be an optional Q&A where you can ask the lecturer questions regarding the self study excercises. 
 
 ### Lab Sessions
 Each week you may attend a 4 hours long lab session. At the lab session you may ask the teacher there for help with the exercises and the laboratory work. When you have completed your laboratory work you should also present your solution to a teacher at a lab session where you explain to the teacher how the code you have written works.
 
-There are 3 different lab sessions each week, but you may only come to one of them:
+There are 4 different lab sessions each week, but you may only come to one of them:
 
 * The students from the master program *Sustainable Building Information Management* should attend the lab sessions that are in your schedule (for the course TSTG17; Lab group 2)
-* The rest of you may come to one of the two remaining lab sessions (Lab group 1 and Lab group 3). To distribute you, join the corresponding [Lab Session Groups](https://ju.instructure.com/courses/6982/groups) on Canvas. First come, first served.
+* The rest of you may come to one of the two remaining lab sessions (Lab group 1, Lab group 3, Lab group 4). To distribute you, join the corresponding [Lab Session Groups](https://ju.instructure.com/courses/6982/groups) on Canvas. First come, first served.
 
 It is OK to attend the sessions for the other groups too if there is room for it, but the students for those groups should of course be prioritized by the teacher.
 
