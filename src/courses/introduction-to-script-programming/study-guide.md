@@ -3,8 +3,8 @@
     course-name="Introduction to Script Programming"
     ladok-code="TSPG17 | TSTG17"
     credits="7.5"
-    course-coordinator="Patrick Riehmann, Björn Praestegaard Larsen"
-    examiner="Patrick Riehmann, Björn Praestegaard Larsen"
+    course-coordinator="Patrick Riehmann"
+    examiner="Patrick Riehmann"
     canvasCourseId="10269"
 />
 
@@ -155,6 +155,3 @@ The examination tests might have changed a little bit the next time the course r
 ::: warning Note!
 The link above leads to a free online version of the book with an interactive tool you can use to execute and debug Python code. We recommend you to use this online book, but if you prefer to read a physical book it's possible to buy that, but then it won't be the *Interactive Edition*.
 :::
-
-## Time Plan
-A time plan is available on the page [Time Plan](time-plan/).
